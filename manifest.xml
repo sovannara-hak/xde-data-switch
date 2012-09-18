@@ -1,0 +1,8 @@
+<package>
+	<description brief="xde-data-switch">
+		Orocos component to handle port switch
+		and data fusion.
+	</description>
+	<author>Sovannara HAK/sovannara.hak@isir.upmc.fr</author>
+
+</package>
